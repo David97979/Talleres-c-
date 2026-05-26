@@ -1,0 +1,3 @@
+11 Andres Botero 1200.552 5
+12 Maria Lopez 1050.000 10
+13 David Parrado 1300.120 12

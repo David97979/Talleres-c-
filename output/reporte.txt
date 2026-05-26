@@ -1,0 +1,3 @@
+Tipo          Unidades      Precio    CostoTotal   IngresoTotal    Utilidad
+cama                10         200         50.00        2000.00     1950.00
+silla               10      100.00         50.00        1000.00      950.00
